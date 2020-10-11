@@ -4,7 +4,6 @@
 This project aims to generate classical music with deep learning.
 ​
 ## Methodology
-​
 ### Data Collection
 316 midi files from http://www.piano-midi.de/. The average duration of the songs is 4 minutes.
 
